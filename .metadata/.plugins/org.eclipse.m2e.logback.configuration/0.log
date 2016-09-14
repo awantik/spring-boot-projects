@@ -1,0 +1,362 @@
+2016-09-14 07:52:12,086 [Worker-21] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project gs-securing-web already exists
+2016-09-14 07:52:18,261 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-securing-web:0.1.0 @ E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\pom.xml.
+2016-09-14 07:52:22,466 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/1.4.0.RELEASE/spring-boot-starter-security-1.4.0.RELEASE.pom
+2016-09-14 07:52:22,729 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/1.4.0.RELEASE/spring-boot-starter-security-1.4.0.RELEASE.pom
+2016-09-14 07:52:23,018 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.1.1.RELEASE/spring-security-config-4.1.1.RELEASE.pom
+2016-09-14 07:52:23,265 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.1.1.RELEASE/spring-security-config-4.1.1.RELEASE.pom
+2016-09-14 07:52:23,509 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.1.RELEASE/spring-framework-bom-4.3.1.RELEASE.pom
+2016-09-14 07:52:23,746 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.1.RELEASE/spring-framework-bom-4.3.1.RELEASE.pom
+2016-09-14 07:52:24,002 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.1.1.RELEASE/spring-security-core-4.1.1.RELEASE.pom
+2016-09-14 07:52:24,240 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.1.1.RELEASE/spring-security-core-4.1.1.RELEASE.pom
+2016-09-14 07:52:24,492 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.1.1.RELEASE/spring-security-web-4.1.1.RELEASE.pom
+2016-09-14 07:52:24,729 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.1.1.RELEASE/spring-security-web-4.1.1.RELEASE.pom
+2016-09-14 07:52:25,673 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/4.1.1.RELEASE/spring-security-test-4.1.1.RELEASE.pom
+2016-09-14 07:52:25,911 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/4.1.1.RELEASE/spring-security-test-4.1.1.RELEASE.pom
+2016-09-14 07:52:26,564 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/1.4.0.RELEASE/spring-boot-starter-security-1.4.0.RELEASE.jar
+2016-09-14 07:52:26,800 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/1.4.0.RELEASE/spring-boot-starter-security-1.4.0.RELEASE.jar
+2016-09-14 07:52:27,023 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.1.1.RELEASE/spring-security-config-4.1.1.RELEASE.jar
+2016-09-14 07:52:28,462 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.1.1.RELEASE/spring-security-config-4.1.1.RELEASE.jar
+2016-09-14 07:52:28,682 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.1.1.RELEASE/spring-security-web-4.1.1.RELEASE.jar
+2016-09-14 07:52:29,014 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.1.1.RELEASE/spring-security-web-4.1.1.RELEASE.jar
+2016-09-14 07:52:29,236 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/4.1.1.RELEASE/spring-security-test-4.1.1.RELEASE.jar
+2016-09-14 07:52:29,478 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-test/4.1.1.RELEASE/spring-security-test-4.1.1.RELEASE.jar
+2016-09-14 07:52:29,702 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.1.1.RELEASE/spring-security-core-4.1.1.RELEASE.jar
+2016-09-14 07:52:29,993 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.1.1.RELEASE/spring-security-core-4.1.1.RELEASE.jar
+2016-09-14 07:52:34,421 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-securing-web/src/main/java
+2016-09-14 07:52:34,422 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-securing-web/src/main/resources
+2016-09-14 07:52:34,429 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-securing-web/src/main/resources
+2016-09-14 07:52:34,436 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-securing-web/src/test/java
+2016-09-14 07:52:35,596 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 23 sec
+2016-09-14 07:52:39,241 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 07:52:39,246 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-14 07:52:39,247 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-14 07:52:39,261 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 07:52:39,262 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-14 08:02:03,823 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springsecurity:SpringSecurityRoleBasedLoginExample:1.0.0 @ E:\Coaching\Java-Code\Spring-Security\SpringSecurityRoleBasedLoginExample\pom.xml.
+2016-09-14 08:02:08,028 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringSecurityRoleBasedLoginExample/src/main/java
+2016-09-14 08:02:08,034 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringSecurityRoleBasedLoginExample/src/test/java
+2016-09-14 08:02:08,445 [Worker-31] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure SpringSecurityRoleBasedLoginExample
+org.eclipse.m2e.wtp.MarkedException: Unable to configure SpringSecurityRoleBasedLoginExample
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:281) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:168) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$1.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:136) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.ImportMavenProjectsJob$1.doCreateMavenProjects(ImportMavenProjectsJob.java:68) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:62) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.wizards.ImportMavenProjectsJob.runInWorkspace(ImportMavenProjectsJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 20 common frames omitted
+2016-09-14 08:02:08,602 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2016-09-14 08:02:10,886 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-14 08:02:10,887 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\SpringSecurityRoleBasedLoginExample\src\main\resources
+2016-09-14 08:02:10,889 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-14 08:02:10,890 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\SpringSecurityRoleBasedLoginExample\src\test\resources
+2016-09-14 08:02:55,248 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-14 08:02:55,249 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\SpringSecurityRoleBasedLoginExample\src\main\resources
+2016-09-14 08:02:55,252 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-14 08:02:55,254 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\SpringSecurityRoleBasedLoginExample\src\test\resources
+2016-09-14 08:08:04,447 [Worker-32] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project gs-accessing-twitter already exists
+2016-09-14 08:08:05,429 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-accessing-twitter:0.1.0 @ E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\pom.xml.
+2016-09-14 08:08:07,682 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-twitter/1.1.2.RELEASE/spring-social-twitter-1.1.2.RELEASE.pom
+2016-09-14 08:08:07,915 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-twitter/1.1.2.RELEASE/spring-social-twitter-1.1.2.RELEASE.pom
+2016-09-14 08:08:08,163 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-config/1.1.4.RELEASE/spring-social-config-1.1.4.RELEASE.pom
+2016-09-14 08:08:08,396 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-config/1.1.4.RELEASE/spring-social-config-1.1.4.RELEASE.pom
+2016-09-14 08:08:08,643 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-web/1.1.4.RELEASE/spring-social-web-1.1.4.RELEASE.pom
+2016-09-14 08:08:08,876 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-web/1.1.4.RELEASE/spring-social-web-1.1.4.RELEASE.pom
+2016-09-14 08:08:09,167 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-core/1.1.4.RELEASE/spring-social-core-1.1.4.RELEASE.pom
+2016-09-14 08:08:09,402 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-core/1.1.4.RELEASE/spring-social-core-1.1.4.RELEASE.pom
+2016-09-14 08:08:09,647 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/4.1.1.RELEASE/spring-security-crypto-4.1.1.RELEASE.pom
+2016-09-14 08:08:09,992 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/4.1.1.RELEASE/spring-security-crypto-4.1.1.RELEASE.pom
+2016-09-14 08:08:10,874 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-twitter/1.1.2.RELEASE/spring-social-twitter-1.1.2.RELEASE.jar
+2016-09-14 08:08:11,980 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-twitter/1.1.2.RELEASE/spring-social-twitter-1.1.2.RELEASE.jar
+2016-09-14 08:08:12,202 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-config/1.1.4.RELEASE/spring-social-config-1.1.4.RELEASE.jar
+2016-09-14 08:08:12,436 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-config/1.1.4.RELEASE/spring-social-config-1.1.4.RELEASE.jar
+2016-09-14 08:08:12,657 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-web/1.1.4.RELEASE/spring-social-web-1.1.4.RELEASE.jar
+2016-09-14 08:08:12,896 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-web/1.1.4.RELEASE/spring-social-web-1.1.4.RELEASE.jar
+2016-09-14 08:08:13,119 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/4.1.1.RELEASE/spring-security-crypto-4.1.1.RELEASE.jar
+2016-09-14 08:08:13,358 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/4.1.1.RELEASE/spring-security-crypto-4.1.1.RELEASE.jar
+2016-09-14 08:08:13,590 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-core/1.1.4.RELEASE/spring-social-core-1.1.4.RELEASE.jar
+2016-09-14 08:08:13,837 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/social/spring-social-core/1.1.4.RELEASE/spring-social-core-1.1.4.RELEASE.jar
+2016-09-14 08:08:15,730 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-accessing-twitter/src/main/java
+2016-09-14 08:08:15,731 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-accessing-twitter/src/main/resources
+2016-09-14 08:08:15,742 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-accessing-twitter/src/main/resources
+2016-09-14 08:08:15,753 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-accessing-twitter/src/test/java
+2016-09-14 08:08:16,395 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 11 sec
+2016-09-14 08:08:18,711 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:08:18,712 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 08:08:18,722 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-14 08:08:18,731 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:08:18,731 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\src\test\resources
+2016-09-14 08:33:23,932 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:33:23,952 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 08:33:23,956 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-14 08:33:23,962 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:33:23,963 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\src\test\resources
+2016-09-14 08:33:54,151 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:33:54,152 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 08:33:54,156 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-14 08:33:54,162 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:33:54,163 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\src\test\resources
+2016-09-14 08:36:43,089 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:36:43,090 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 08:36:43,094 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-14 08:36:43,101 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:36:43,102 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\src\test\resources
+2016-09-14 08:41:05,287 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:41:05,288 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 08:41:05,292 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-14 08:41:05,298 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:41:05,298 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\src\test\resources
+2016-09-14 08:45:09,443 [Worker-67] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project gs-rest-service already exists
+2016-09-14 08:45:12,168 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-rest-service:0.1.0 @ E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\pom.xml.
+2016-09-14 08:45:18,696 [Worker-67] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-rest-service/src/main/java
+2016-09-14 08:45:18,707 [Worker-67] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-rest-service/src/test/java
+2016-09-14 08:45:19,244 [Worker-67] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 9 sec
+2016-09-14 08:45:21,455 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:45:21,456 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 08:45:21,456 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 08:45:21,461 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:45:21,461 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 08:55:39,070 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:55:39,070 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 08:55:39,070 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 08:55:39,076 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:55:39,076 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 08:55:53,843 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:55:53,843 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 08:55:53,843 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 08:55:53,850 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:55:53,851 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 08:56:25,252 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:56:25,253 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 08:56:25,253 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 08:56:25,258 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:56:25,258 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 08:56:57,477 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:56:57,477 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 08:56:57,477 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 08:56:57,482 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 08:56:57,482 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 09:00:20,079 [Worker-73] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project gs-scheduling-tasks already exists
+2016-09-14 09:00:20,845 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-scheduling-tasks:0.1.0 @ E:\Coaching\Java-Code\Spring-Security\gs-scheduling-tasks-master\complete\pom.xml.
+2016-09-14 09:00:21,748 [Worker-73] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-scheduling-tasks/src/main/java
+2016-09-14 09:00:21,755 [Worker-73] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-scheduling-tasks/src/test/java
+2016-09-14 09:00:21,971 [Worker-73] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 1 sec
+2016-09-14 09:00:23,381 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:00:23,382 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-scheduling-tasks-master\complete\src\main\resources
+2016-09-14 09:00:23,382 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-scheduling-tasks-master\complete\src\main\resources
+2016-09-14 09:00:23,385 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:00:23,386 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-scheduling-tasks-master\complete\src\test\resources
+2016-09-14 09:12:01,445 [Worker-82] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project gs-caching already exists
+2016-09-14 09:12:02,283 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-caching:0.1.0 @ E:\Coaching\Java-Code\Spring-Security\gs-caching-master\complete\pom.xml.
+2016-09-14 09:12:03,674 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/1.4.0.RELEASE/spring-boot-starter-cache-1.4.0.RELEASE.pom
+2016-09-14 09:12:03,902 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/1.4.0.RELEASE/spring-boot-starter-cache-1.4.0.RELEASE.pom
+2016-09-14 09:12:04,368 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.3.2.RELEASE/spring-context-support-4.3.2.RELEASE.pom
+2016-09-14 09:12:04,600 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.3.2.RELEASE/spring-context-support-4.3.2.RELEASE.pom
+2016-09-14 09:12:04,954 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/1.4.0.RELEASE/spring-boot-starter-cache-1.4.0.RELEASE.jar
+2016-09-14 09:12:05,190 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/1.4.0.RELEASE/spring-boot-starter-cache-1.4.0.RELEASE.jar
+2016-09-14 09:12:05,411 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.3.2.RELEASE/spring-context-support-4.3.2.RELEASE.jar
+2016-09-14 09:12:06,304 [Worker-82] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context-support/4.3.2.RELEASE/spring-context-support-4.3.2.RELEASE.jar
+2016-09-14 09:12:06,974 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-caching/src/main/java
+2016-09-14 09:12:06,975 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-caching/src/test/java
+2016-09-14 09:12:07,230 [Worker-82] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 5 sec
+2016-09-14 09:12:08,525 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:12:08,525 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-caching-master\complete\src\main\resources
+2016-09-14 09:12:08,525 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-caching-master\complete\src\main\resources
+2016-09-14 09:12:08,528 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:12:08,528 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-caching-master\complete\src\test\resources
+2016-09-14 09:19:59,581 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.springframework.guides:tut-spring-boot-oauth:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\pom.xml.
+2016-09-14 09:19:59,833 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-simple:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\simple\pom.xml.
+2016-09-14 09:20:01,253 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/1.4.0.RELEASE/spring-boot-starter-actuator-1.4.0.RELEASE.pom
+2016-09-14 09:20:01,494 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/1.4.0.RELEASE/spring-boot-starter-actuator-1.4.0.RELEASE.pom
+2016-09-14 09:20:02,089 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/1.4.0.RELEASE/spring-boot-actuator-1.4.0.RELEASE.pom
+2016-09-14 09:20:02,330 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/1.4.0.RELEASE/spring-boot-actuator-1.4.0.RELEASE.pom
+2016-09-14 09:20:03,018 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth2/2.0.10.RELEASE/spring-security-oauth2-2.0.10.RELEASE.pom
+2016-09-14 09:20:03,261 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth2/2.0.10.RELEASE/spring-security-oauth2-2.0.10.RELEASE.pom
+2016-09-14 09:20:03,517 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth-parent/2.0.10.RELEASE/spring-security-oauth-parent-2.0.10.RELEASE.pom
+2016-09-14 09:20:03,761 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth-parent/2.0.10.RELEASE/spring-security-oauth-parent-2.0.10.RELEASE.pom
+2016-09-14 09:20:04,073 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2016-09-14 09:20:04,321 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2016-09-14 09:20:04,570 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2016-09-14 09:20:05,036 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2016-09-14 09:20:05,291 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom
+2016-09-14 09:20:05,530 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom
+2016-09-14 09:20:05,874 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/angularjs/1.4.3/angularjs-1.4.3.pom
+2016-09-14 09:20:06,118 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/angularjs/1.4.3/angularjs-1.4.3.pom
+2016-09-14 09:20:06,404 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.pom
+2016-09-14 09:20:06,645 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.pom
+2016-09-14 09:20:06,907 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bootstrap/3.2.0/bootstrap-3.2.0.pom
+2016-09-14 09:20:07,150 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bootstrap/3.2.0/bootstrap-3.2.0.pom
+2016-09-14 09:20:07,403 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/1.11.1/jquery-1.11.1.pom
+2016-09-14 09:20:07,644 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/1.11.1/jquery-1.11.1.pom
+2016-09-14 09:20:07,897 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/webjars-locator/0.32/webjars-locator-0.32.pom
+2016-09-14 09:20:08,139 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator/0.32/webjars-locator-0.32.pom
+2016-09-14 09:20:08,394 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.30/webjars-locator-core-0.30.pom
+2016-09-14 09:20:08,635 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.30/webjars-locator-core-0.30.pom
+2016-09-14 09:20:08,892 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.pom
+2016-09-14 09:20:09,173 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.pom
+2016-09-14 09:20:09,425 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/22/commons-parent-22.pom
+2016-09-14 09:20:09,681 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/22/commons-parent-22.pom
+2016-09-14 09:20:10,655 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/1.4.0.RELEASE/spring-boot-starter-actuator-1.4.0.RELEASE.jar
+2016-09-14 09:20:10,895 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/1.4.0.RELEASE/spring-boot-starter-actuator-1.4.0.RELEASE.jar
+2016-09-14 09:20:11,124 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/1.4.0.RELEASE/spring-boot-actuator-1.4.0.RELEASE.jar
+2016-09-14 09:20:12,343 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/1.4.0.RELEASE/spring-boot-actuator-1.4.0.RELEASE.jar
+2016-09-14 09:20:12,572 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth2/2.0.10.RELEASE/spring-security-oauth2-2.0.10.RELEASE.jar
+2016-09-14 09:20:12,884 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/oauth/spring-security-oauth2/2.0.10.RELEASE/spring-security-oauth2-2.0.10.RELEASE.jar
+2016-09-14 09:20:13,113 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2016-09-14 09:20:13,417 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2016-09-14 09:20:13,650 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/angularjs/1.4.3/angularjs-1.4.3.jar
+2016-09-14 09:20:14,836 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/angularjs/1.4.3/angularjs-1.4.3.jar
+2016-09-14 09:20:15,066 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.jar
+2016-09-14 09:20:15,322 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.jar
+2016-09-14 09:20:15,551 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bootstrap/3.2.0/bootstrap-3.2.0.jar
+2016-09-14 09:20:15,830 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bootstrap/3.2.0/bootstrap-3.2.0.jar
+2016-09-14 09:20:16,062 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/webjars-locator/0.32/webjars-locator-0.32.jar
+2016-09-14 09:20:16,303 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator/0.32/webjars-locator-0.32.jar
+2016-09-14 09:20:16,532 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.30/webjars-locator-core-0.30.jar
+2016-09-14 09:20:16,773 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.30/webjars-locator-core-0.30.jar
+2016-09-14 09:20:17,003 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar
+2016-09-14 09:20:17,287 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar
+2016-09-14 09:20:19,714 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-click:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\click\pom.xml.
+2016-09-14 09:20:20,545 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-logout:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\logout\pom.xml.
+2016-09-14 09:20:21,157 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-manual:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\manual\pom.xml.
+2016-09-14 09:20:21,412 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-processor/1.4.0.RELEASE/spring-boot-configuration-processor-1.4.0.RELEASE.pom
+2016-09-14 09:20:21,659 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-processor/1.4.0.RELEASE/spring-boot-configuration-processor-1.4.0.RELEASE.pom
+2016-09-14 09:20:22,302 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-processor/1.4.0.RELEASE/spring-boot-configuration-processor-1.4.0.RELEASE.jar
+2016-09-14 09:20:22,552 [Worker-83] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-processor/1.4.0.RELEASE/spring-boot-configuration-processor-1.4.0.RELEASE.jar
+2016-09-14 09:20:23,342 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-github:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\github\pom.xml.
+2016-09-14 09:20:24,296 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-auth-server:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\auth-server\pom.xml.
+2016-09-14 09:20:25,064 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:custom-error:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\custom-error\pom.xml.
+2016-09-14 09:20:27,462 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-auth-server/src/main/java
+2016-09-14 09:20:27,463 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-auth-server/src/main/resources
+2016-09-14 09:20:27,474 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-auth-server/src/main/resources
+2016-09-14 09:20:27,486 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-auth-server/src/test/java
+2016-09-14 09:20:27,486 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-auth-server/src/test/resources
+2016-09-14 09:20:43,275 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /custom-error/src/main/java
+2016-09-14 09:20:43,275 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /custom-error/src/main/resources
+2016-09-14 09:20:43,283 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /custom-error/src/main/resources
+2016-09-14 09:20:43,291 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /custom-error/src/test/java
+2016-09-14 09:20:43,701 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-logout/src/main/java
+2016-09-14 09:20:43,702 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-logout/src/main/resources
+2016-09-14 09:20:43,708 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-logout/src/main/resources
+2016-09-14 09:20:43,715 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-logout/src/test/java
+2016-09-14 09:20:44,194 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-manual/src/main/java
+2016-09-14 09:20:44,195 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-manual/src/main/resources
+2016-09-14 09:20:44,207 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-manual/src/main/resources
+2016-09-14 09:20:44,219 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-manual/src/test/java
+2016-09-14 09:20:45,078 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-simple/src/main/java
+2016-09-14 09:20:45,078 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-simple/src/main/resources
+2016-09-14 09:20:45,108 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-simple/src/main/resources
+2016-09-14 09:20:45,118 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-simple/src/test/java
+2016-09-14 09:20:45,944 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-click/src/main/java
+2016-09-14 09:20:45,944 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-click/src/main/resources
+2016-09-14 09:20:45,951 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-click/src/main/resources
+2016-09-14 09:20:45,958 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-click/src/test/java
+2016-09-14 09:20:46,334 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-github/src/main/java
+2016-09-14 09:20:46,334 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-github/src/main/resources
+2016-09-14 09:20:46,340 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-github/src/main/resources
+2016-09-14 09:20:46,347 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-github/src/test/java
+2016-09-14 09:20:46,347 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-github/src/test/resources
+2016-09-14 09:20:47,004 [Worker-83] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 8 project(s) in 49 sec
+2016-09-14 09:20:51,061 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:20:51,061 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:20:51,063 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:20:51,068 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:20:51,068 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\custom-error\src\test\resources
+2016-09-14 09:20:56,637 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:20:56,637 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:20:56,640 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:20:56,645 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:20:56,645 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:20:59,532 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:20:59,533 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:20:59,536 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:20:59,544 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:20:59,544 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\click\src\test\resources
+2016-09-14 09:21:02,785 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:21:02,786 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:21:02,788 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:21:02,792 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:21:02,793 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:21:05,048 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:21:05,049 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:21:05,050 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:21:05,054 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:21:05,054 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\logout\src\test\resources
+2016-09-14 09:21:08,557 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:21:08,558 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:21:08,560 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:21:08,566 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:21:08,566 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\manual\src\test\resources
+2016-09-14 09:21:11,192 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:21:11,192 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:21:11,194 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-14 09:21:11,199 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 09:21:11,199 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master\simple\src\test\resources
+2016-09-14 10:58:06,452 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 10:58:06,463 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 10:58:06,464 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 10:58:06,468 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 10:58:06,468 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 10:59:21,737 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 10:59:21,737 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 10:59:21,737 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 10:59:21,742 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 10:59:21,742 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 11:00:39,254 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:00:39,254 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:00:39,254 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:00:39,260 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:00:39,261 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 11:02:48,898 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:02:48,899 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:02:48,899 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:02:48,907 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:02:48,907 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 11:09:13,422 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:09:13,423 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:09:13,423 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:09:13,429 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:09:13,430 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 11:11:40,646 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:11:40,647 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:11:40,648 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:11:40,659 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:11:40,659 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 11:12:55,062 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:12:55,063 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:12:55,063 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:12:55,067 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:12:55,068 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 11:14:24,070 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:14:24,071 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:14:24,071 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\main\resources
+2016-09-14 11:14:24,084 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:14:24,084 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-service-master\complete\src\test\resources
+2016-09-14 11:59:04,543 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:59:04,543 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-scheduling-tasks-master\complete\src\main\resources
+2016-09-14 11:59:04,543 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-scheduling-tasks-master\complete\src\main\resources
+2016-09-14 11:59:04,548 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-14 11:59:04,548 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-scheduling-tasks-master\complete\src\test\resources
