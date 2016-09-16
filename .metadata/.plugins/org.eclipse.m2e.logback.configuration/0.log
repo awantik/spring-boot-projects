@@ -360,3 +360,391 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2016-09-14 11:59:04,543 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-scheduling-tasks-master\complete\src\main\resources
 2016-09-14 11:59:04,548 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-09-14 11:59:04,548 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-scheduling-tasks-master\complete\src\test\resources
+2016-09-15 09:49:21,310 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 09:49:21,398 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 09:49:21,402 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-15 09:49:21,434 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 09:49:21,434 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 09:49:26,785 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 09:49:26,790 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 09:49:26,791 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 09:49:26,798 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 09:49:26,798 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 09:50:23,665 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 09:50:23,666 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 09:50:23,666 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 09:50:23,673 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 09:50:23,673 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 09:50:24,775 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 09:50:24,776 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 09:50:24,777 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 09:50:24,783 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 09:50:24,783 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 10:45:38,516 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 10:45:38,525 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 10:45:38,525 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-15 10:45:38,537 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 10:45:38,538 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 10:45:40,411 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 10:45:40,416 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 10:45:40,416 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 10:45:40,419 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 10:45:40,419 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:00:11,933 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:00:11,958 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:00:11,964 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-15 11:00:11,991 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:00:11,993 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:00:13,137 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:00:13,138 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:00:13,138 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:00:13,145 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:00:13,146 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:01:04,598 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:04,600 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:01:04,602 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-15 11:01:04,631 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:04,632 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:01:05,746 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:05,747 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:01:05,747 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:01:05,752 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:05,752 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:01:29,020 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:29,020 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:01:29,021 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-15 11:01:29,024 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:29,024 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:01:30,099 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:30,100 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:01:30,100 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:01:30,104 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:30,104 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:01:55,740 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:55,744 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:01:55,746 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-15 11:01:55,760 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:55,761 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:01:56,900 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:56,901 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:01:56,901 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:01:56,925 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:01:56,925 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:19:37,008 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:19:37,010 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:19:37,012 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-15 11:19:37,022 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:19:37,025 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:19:38,208 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:19:38,208 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:19:38,209 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:19:38,214 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:19:38,214 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:23:44,989 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:23:44,991 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:23:44,993 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-15 11:23:45,001 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:23:45,002 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:23:46,126 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:23:46,127 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:23:46,127 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:23:46,152 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:23:46,153 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:25:13,262 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:13,270 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:25:13,272 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-15 11:25:13,288 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:13,288 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:25:14,364 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:14,365 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:25:14,366 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-15 11:25:14,383 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:14,384 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:25:15,505 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:15,505 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:25:15,505 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:25:15,511 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:15,511 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:25:29,048 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:29,050 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:25:29,052 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-15 11:25:29,071 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:29,071 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:25:29,307 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:29,307 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:25:29,308 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:25:29,313 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:29,313 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:25:40,338 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:40,340 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:25:40,342 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-09-15 11:25:40,349 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:40,349 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 11:25:41,491 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:41,491 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:25:41,492 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 11:25:41,500 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 11:25:41,501 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-15 23:15:37,949 [Worker-164] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project gs-messaging-stomp-websocket already exists
+2016-09-15 23:16:31,032 [Worker-164] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-messaging-stomp-websocket:0.1.0 @ E:\Coaching\Java-Code\Spring-Security\gs-messaging-stomp-websocket\complete\pom.xml.
+2016-09-15 23:16:36,172 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/1.4.0.RELEASE/spring-boot-starter-websocket-1.4.0.RELEASE.pom
+2016-09-15 23:16:36,639 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/1.4.0.RELEASE/spring-boot-starter-websocket-1.4.0.RELEASE.pom
+2016-09-15 23:16:39,186 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/4.3.2.RELEASE/spring-messaging-4.3.2.RELEASE.pom
+2016-09-15 23:16:39,424 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/4.3.2.RELEASE/spring-messaging-4.3.2.RELEASE.pom
+2016-09-15 23:16:39,671 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/4.3.2.RELEASE/spring-websocket-4.3.2.RELEASE.pom
+2016-09-15 23:16:39,943 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/4.3.2.RELEASE/spring-websocket-4.3.2.RELEASE.pom
+2016-09-15 23:16:40,664 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/sockjs-client/1.0.2/sockjs-client-1.0.2.pom
+2016-09-15 23:16:40,906 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/sockjs-client/1.0.2/sockjs-client-1.0.2.pom
+2016-09-15 23:16:41,155 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/stomp-websocket/2.3.3/stomp-websocket-2.3.3.pom
+2016-09-15 23:16:41,407 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/stomp-websocket/2.3.3/stomp-websocket-2.3.3.pom
+2016-09-15 23:16:41,652 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bootstrap/3.3.7/bootstrap-3.3.7.pom
+2016-09-15 23:16:41,891 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bootstrap/3.3.7/bootstrap-3.3.7.pom
+2016-09-15 23:16:42,607 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.1.0/jquery-3.1.0.pom
+2016-09-15 23:16:42,845 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.1.0/jquery-3.1.0.pom
+2016-09-15 23:16:44,301 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/1.4.0.RELEASE/spring-boot-starter-websocket-1.4.0.RELEASE.jar
+2016-09-15 23:16:44,639 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/1.4.0.RELEASE/spring-boot-starter-websocket-1.4.0.RELEASE.jar
+2016-09-15 23:16:44,864 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/4.3.2.RELEASE/spring-messaging-4.3.2.RELEASE.jar
+2016-09-15 23:16:52,976 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/4.3.2.RELEASE/spring-messaging-4.3.2.RELEASE.jar
+2016-09-15 23:16:53,422 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/4.3.2.RELEASE/spring-websocket-4.3.2.RELEASE.jar
+2016-09-15 23:17:00,343 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/4.3.2.RELEASE/spring-websocket-4.3.2.RELEASE.jar
+2016-09-15 23:17:00,569 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/sockjs-client/1.0.2/sockjs-client-1.0.2.jar
+2016-09-15 23:17:02,136 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/sockjs-client/1.0.2/sockjs-client-1.0.2.jar
+2016-09-15 23:17:02,581 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/stomp-websocket/2.3.3/stomp-websocket-2.3.3.jar
+2016-09-15 23:17:02,816 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/stomp-websocket/2.3.3/stomp-websocket-2.3.3.jar
+2016-09-15 23:17:03,264 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bootstrap/3.3.7/bootstrap-3.3.7.jar
+2016-09-15 23:17:12,986 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bootstrap/3.3.7/bootstrap-3.3.7.jar
+2016-09-15 23:17:13,210 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.1.0/jquery-3.1.0.jar
+2016-09-15 23:17:16,577 [Worker-164] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.1.0/jquery-3.1.0.jar
+2016-09-15 23:17:36,795 [Worker-164] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-messaging-stomp-websocket/src/main/java
+2016-09-15 23:17:36,797 [Worker-164] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-messaging-stomp-websocket/src/main/resources
+2016-09-15 23:17:36,806 [Worker-164] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-messaging-stomp-websocket/src/main/resources
+2016-09-15 23:17:36,816 [Worker-164] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-messaging-stomp-websocket/src/test/java
+2016-09-15 23:17:40,032 [Worker-164] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 188 sec
+2016-09-15 23:17:50,632 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 23:17:50,633 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-15 23:17:50,634 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-15 23:17:50,714 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-15 23:17:50,714 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-messaging-stomp-websocket\complete\src\test\resources
+2016-09-16 07:35:24,245 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-messaging-stomp-websocket:0.1.0 @ E:\Coaching\Java-Code\Spring-Security\gs-messaging-stomp-websocket\complete\pom.xml.
+2016-09-16 07:35:35,144 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:35:35,156 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:35:35,159 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-16 07:35:35,217 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:35:35,217 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-messaging-stomp-websocket\complete\src\test\resources
+2016-09-16 07:35:39,744 [Worker-11] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project gs-accessing-data-jpa already exists
+2016-09-16 07:35:42,350 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-accessing-data-jpa:0.1.0 @ E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\pom.xml.
+2016-09-16 07:35:47,030 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-data-jpa/1.4.0.RELEASE/spring-boot-starter-data-jpa-1.4.0.RELEASE.pom
+2016-09-16 07:35:47,385 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-data-jpa/1.4.0.RELEASE/spring-boot-starter-data-jpa-1.4.0.RELEASE.pom
+2016-09-16 07:35:48,237 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-jdbc/1.4.0.RELEASE/spring-boot-starter-jdbc-1.4.0.RELEASE.pom
+2016-09-16 07:35:48,556 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-jdbc/1.4.0.RELEASE/spring-boot-starter-jdbc-1.4.0.RELEASE.pom
+2016-09-16 07:35:48,956 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/tomcat-jdbc/8.5.4/tomcat-jdbc-8.5.4.pom
+2016-09-16 07:35:49,274 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/tomcat-jdbc/8.5.4/tomcat-jdbc-8.5.4.pom
+2016-09-16 07:35:49,623 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/tomcat-juli/8.5.4/tomcat-juli-8.5.4.pom
+2016-09-16 07:35:49,940 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/tomcat-juli/8.5.4/tomcat-juli-8.5.4.pom
+2016-09-16 07:35:50,707 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/hibernate/hibernate-core/5.0.9.Final/hibernate-core-5.0.9.Final.pom
+2016-09-16 07:35:51,022 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/hibernate/hibernate-core/5.0.9.Final/hibernate-core-5.0.9.Final.pom
+2016-09-16 07:35:51,976 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.pom
+2016-09-16 07:35:52,291 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.pom
+2016-09-16 07:35:52,751 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/hibernate/hibernate-entitymanager/5.0.9.Final/hibernate-entitymanager-5.0.9.Final.pom
+2016-09-16 07:35:53,066 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/hibernate/hibernate-entitymanager/5.0.9.Final/hibernate-entitymanager-5.0.9.Final.pom
+2016-09-16 07:35:53,922 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/h2database/h2/1.4.192/h2-1.4.192.pom
+2016-09-16 07:35:54,237 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/h2database/h2/1.4.192/h2-1.4.192.pom
+2016-09-16 07:35:55,119 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-data-jpa/1.4.0.RELEASE/spring-boot-starter-data-jpa-1.4.0.RELEASE.jar
+2016-09-16 07:35:55,421 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-data-jpa/1.4.0.RELEASE/spring-boot-starter-data-jpa-1.4.0.RELEASE.jar
+2016-09-16 07:35:55,718 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-jdbc/1.4.0.RELEASE/spring-boot-starter-jdbc-1.4.0.RELEASE.jar
+2016-09-16 07:35:56,034 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-jdbc/1.4.0.RELEASE/spring-boot-starter-jdbc-1.4.0.RELEASE.jar
+2016-09-16 07:35:56,343 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/tomcat-jdbc/8.5.4/tomcat-jdbc-8.5.4.jar
+2016-09-16 07:35:57,518 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/tomcat-jdbc/8.5.4/tomcat-jdbc-8.5.4.jar
+2016-09-16 07:35:57,819 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/tomcat-juli/8.5.4/tomcat-juli-8.5.4.jar
+2016-09-16 07:35:58,169 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/tomcat-juli/8.5.4/tomcat-juli-8.5.4.jar
+2016-09-16 07:35:58,469 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/hibernate/hibernate-core/5.0.9.Final/hibernate-core-5.0.9.Final.jar
+2016-09-16 07:36:03,761 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/hibernate/hibernate-core/5.0.9.Final/hibernate-core-5.0.9.Final.jar
+2016-09-16 07:36:04,061 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar
+2016-09-16 07:36:04,436 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar
+2016-09-16 07:36:04,744 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/hibernate/hibernate-entitymanager/5.0.9.Final/hibernate-entitymanager-5.0.9.Final.jar
+2016-09-16 07:36:05,365 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/hibernate/hibernate-entitymanager/5.0.9.Final/hibernate-entitymanager-5.0.9.Final.jar
+2016-09-16 07:36:05,671 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/h2database/h2/1.4.192/h2-1.4.192.jar
+2016-09-16 07:36:10,148 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/h2database/h2/1.4.192/h2-1.4.192.jar
+2016-09-16 07:36:19,158 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-accessing-data-jpa/src/main/java
+2016-09-16 07:36:19,173 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-accessing-data-jpa/src/test/java
+2016-09-16 07:36:20,130 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 40 sec
+2016-09-16 07:36:25,166 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:36:25,166 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 07:36:25,166 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 07:36:25,171 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:36:25,171 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 07:36:28,252 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:36:28,253 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:36:28,254 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-09-16 07:36:28,298 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:36:28,299 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-16 07:36:28,726 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:36:28,730 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:36:28,730 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:36:28,736 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:36:28,736 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-securing-web-master\complete\src\test\resources
+2016-09-16 07:42:50,109 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:42:50,110 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-16 07:42:50,140 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-16 07:42:50,149 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:42:50,149 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\src\test\resources
+2016-09-16 07:42:51,267 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:42:51,268 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:42:51,268 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:42:51,274 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:42:51,274 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\src\test\resources
+2016-09-16 07:52:19,921 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:52:19,926 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-16 07:52:19,930 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:52:19,938 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:52:19,939 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\src\test\resources
+2016-09-16 07:52:21,049 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:52:21,049 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:52:21,050 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:52:21,057 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:52:21,058 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\src\test\resources
+2016-09-16 07:53:05,183 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:53:05,185 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-16 07:53:05,188 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:53:05,196 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:53:05,197 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\src\test\resources
+2016-09-16 07:53:06,258 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:53:06,259 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:53:06,260 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 07:53:06,265 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 07:53:06,265 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-twitter-master\complete\src\test\resources
+2016-09-16 08:11:10,312 [Worker-27] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project gs-accessing-facebook already exists
+2016-09-16 08:11:13,259 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-accessing-facebook:0.1.0 @ E:\Coaching\Java-Code\Spring-Security\gs-accessing-facebook-master\gs-accessing-facebook-master\complete\pom.xml.
+2016-09-16 08:11:15,177 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/social/spring-social-facebook/2.0.3.RELEASE/spring-social-facebook-2.0.3.RELEASE.pom
+2016-09-16 08:11:15,499 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/social/spring-social-facebook/2.0.3.RELEASE/spring-social-facebook-2.0.3.RELEASE.pom
+2016-09-16 08:11:16,489 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/social/spring-social-facebook/2.0.3.RELEASE/spring-social-facebook-2.0.3.RELEASE.jar
+2016-09-16 08:11:18,170 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/social/spring-social-facebook/2.0.3.RELEASE/spring-social-facebook-2.0.3.RELEASE.jar
+2016-09-16 08:11:20,600 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-accessing-facebook/src/main/java
+2016-09-16 08:11:20,600 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-accessing-facebook/src/main/resources
+2016-09-16 08:11:20,609 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-accessing-facebook/src/main/resources
+2016-09-16 08:11:20,618 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-accessing-facebook/src/test/java
+2016-09-16 08:11:21,003 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 10 sec
+2016-09-16 08:11:23,278 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:11:23,279 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-16 08:11:23,300 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-16 08:11:23,317 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:11:23,317 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-facebook-master\gs-accessing-facebook-master\complete\src\test\resources
+2016-09-16 08:12:58,049 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:12:58,053 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-16 08:12:58,057 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 08:12:58,063 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:12:58,063 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-facebook-master\gs-accessing-facebook-master\complete\src\test\resources
+2016-09-16 08:48:59,248 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:48:59,249 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 08:48:59,249 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 08:48:59,255 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:48:59,255 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 08:49:40,826 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:49:40,827 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 08:49:40,827 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 08:49:40,832 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:49:40,833 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 08:50:07,456 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:50:07,457 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 08:50:07,457 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 08:50:07,463 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:50:07,463 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 08:50:39,306 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:50:39,306 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 08:50:39,306 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 08:50:39,311 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 08:50:39,311 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 09:04:23,545 [Worker-44] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project gs-rest-hateoas already exists
+2016-09-16 09:04:24,434 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-rest-hateoas:0.1.0 @ E:\Coaching\Java-Code\Spring-Security\gs-rest-hateoas-master\complete\pom.xml.
+2016-09-16 09:04:25,966 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-hateoas/1.4.0.RELEASE/spring-boot-starter-hateoas-1.4.0.RELEASE.pom
+2016-09-16 09:04:26,279 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-hateoas/1.4.0.RELEASE/spring-boot-starter-hateoas-1.4.0.RELEASE.pom
+2016-09-16 09:04:27,275 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/hateoas/spring-hateoas/0.20.0.RELEASE/spring-hateoas-0.20.0.RELEASE.pom
+2016-09-16 09:04:27,867 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/hateoas/spring-hateoas/0.20.0.RELEASE/spring-hateoas-0.20.0.RELEASE.pom
+2016-09-16 09:04:28,199 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.pom
+2016-09-16 09:04:28,515 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.pom
+2016-09-16 09:04:28,848 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/plugin/spring-plugin/1.2.0.RELEASE/spring-plugin-1.2.0.RELEASE.pom
+2016-09-16 09:04:29,164 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/plugin/spring-plugin/1.2.0.RELEASE/spring-plugin-1.2.0.RELEASE.pom
+2016-09-16 09:04:30,034 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-hateoas/1.4.0.RELEASE/spring-boot-starter-hateoas-1.4.0.RELEASE.jar
+2016-09-16 09:04:30,351 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-hateoas/1.4.0.RELEASE/spring-boot-starter-hateoas-1.4.0.RELEASE.jar
+2016-09-16 09:04:30,656 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/hateoas/spring-hateoas/0.20.0.RELEASE/spring-hateoas-0.20.0.RELEASE.jar
+2016-09-16 09:04:32,093 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/hateoas/spring-hateoas/0.20.0.RELEASE/spring-hateoas-0.20.0.RELEASE.jar
+2016-09-16 09:04:32,402 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar
+2016-09-16 09:04:32,717 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar
+2016-09-16 09:04:33,822 [Worker-44] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-rest-hateoas/src/main/java
+2016-09-16 09:04:33,833 [Worker-44] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-rest-hateoas/src/test/java
+2016-09-16 09:04:34,349 [Worker-44] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 10 sec
+2016-09-16 09:04:36,465 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:04:36,465 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-hateoas-master\complete\src\main\resources
+2016-09-16 09:04:36,465 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-hateoas-master\complete\src\main\resources
+2016-09-16 09:04:36,468 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:04:36,468 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-hateoas-master\complete\src\test\resources
+2016-09-16 09:31:13,871 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:31:13,872 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:31:13,872 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:31:13,877 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:31:13,878 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 09:31:24,398 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:31:24,399 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:31:24,399 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:31:24,405 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:31:24,405 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 09:31:39,711 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-accessing-data-jpa:0.1.0 @ E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\pom.xml.
+2016-09-16 09:31:42,891 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.pom
+2016-09-16 09:31:43,198 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.pom
+2016-09-16 09:31:43,762 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.jar
+2016-09-16 09:31:46,062 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/mysql/mysql-connector-java/5.1.39/mysql-connector-java-5.1.39.jar
+2016-09-16 09:31:47,136 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:31:47,136 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:31:47,136 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:31:47,141 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:31:47,141 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 09:31:50,019 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:31:50,020 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:31:50,020 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:31:50,023 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:31:50,023 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 09:32:01,595 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:32:01,596 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:32:01,596 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:32:01,601 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:32:01,601 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 09:32:37,589 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:32:37,590 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:32:37,590 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:32:37,595 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:32:37,596 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 09:34:57,729 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:34:57,729 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:34:57,730 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:34:57,735 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:34:57,735 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 09:35:01,013 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:35:01,013 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:35:01,014 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:35:01,022 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:35:01,023 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 09:35:47,576 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:35:47,576 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:35:47,576 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\main\resources
+2016-09-16 09:35:47,581 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:35:47,582 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master\complete\src\test\resources
+2016-09-16 09:49:52,744 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:49:52,745 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 09:49:52,746 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-16 09:49:52,759 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:49:52,759 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-messaging-stomp-websocket\complete\src\test\resources
+2016-09-16 09:50:40,242 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:50:40,243 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 09:50:40,245 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-16 09:50:40,255 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:50:40,256 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-messaging-stomp-websocket\complete\src\test\resources
+2016-09-16 09:51:40,692 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:51:40,707 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 09:51:40,709 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-16 09:51:40,715 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 09:51:40,716 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-messaging-stomp-websocket\complete\src\test\resources
+2016-09-16 11:09:17,398 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 11:09:17,401 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-16 11:09:17,405 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-16 11:09:17,430 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-16 11:09:17,431 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-messaging-stomp-websocket\complete\src\test\resources
