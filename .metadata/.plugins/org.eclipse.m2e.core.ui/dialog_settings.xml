@@ -14,6 +14,9 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\Coaching\Java-Code\Spring-Security\gs-rest-hateoas-master"/>
+			<item value="E:\Coaching\Java-Code\Spring-Security\gs-accessing-facebook-master\gs-accessing-facebook-master"/>
+			<item value="E:\Coaching\Java-Code\Spring-Security\gs-accessing-data-jpa-master"/>
 			<item value="E:\Coaching\Java-Code\Spring-Security\tut-spring-boot-oauth2-master"/>
 			<item value="E:\Coaching\Java-Code\Spring-Security\gs-caching-master\complete"/>
 			<item value="E:\Coaching\Java-Code\Spring-Security\gs-caching-master"/>

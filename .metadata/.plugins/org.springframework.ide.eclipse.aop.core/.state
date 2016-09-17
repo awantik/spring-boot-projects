@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="social-auth-server"/>
-<aop-project name="social-click"/>
+<aop-project name="gs-accessing-facebook"/>
+<aop-project name="gs-accessing-data-jpa"/>
 <aop-project name="gs-rest-service"/>
+<aop-project name="social-click"/>
+<aop-project name="gs-messaging-stomp-websocket"/>
 <aop-project name="social-simple"/>
+<aop-project name="gs-rest-hateoas"/>
 <aop-project name="social-manual"/>
 <aop-project name="social-github"/>
 <aop-project name="social-logout"/>
+<aop-project name="gs-securing-web"/>
+<aop-project name="demo-t"/>
 <aop-project name="gs-scheduling-tasks"/>
 </aop-reference-model>

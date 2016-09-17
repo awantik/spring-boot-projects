@@ -890,3 +890,85 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2016-09-16 13:01:17,510 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-09-16 13:01:17,517 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-09-16 13:01:17,517 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\demo-t\src\test\resources
+2016-09-17 09:50:14,887 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 09:50:14,948 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-17 09:50:14,984 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-17 09:50:14,993 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 09:50:15,005 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\demo-t\src\test\resources
+2016-09-17 09:50:32,697 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TwitterCode:TwitterCode:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\Spring-Security\TwitterCode\pom.xml.
+2016-09-17 09:50:35,165 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/4.0.4/twitter4j-core-4.0.4.pom
+2016-09-17 09:50:35,479 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/4.0.4/twitter4j-core-4.0.4.pom
+2016-09-17 09:50:35,753 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.pom
+2016-09-17 09:50:36,013 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.pom
+2016-09-17 09:50:36,287 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/4.0.4/twitter4j-core-4.0.4.jar
+2016-09-17 09:50:38,834 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-core/4.0.4/twitter4j-core-4.0.4.jar
+2016-09-17 09:50:39,074 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar
+2016-09-17 09:50:39,355 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/twitter4j/twitter4j-stream/4.0.4/twitter4j-stream-4.0.4.jar
+2016-09-17 09:50:41,340 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TwitterCode/src
+2016-09-17 09:50:41,341 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /TwitterCode/src/test/java because it overlaps with /TwitterCode/src
+2016-09-17 09:50:41,605 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2016-09-17 09:50:50,446 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 09:50:50,451 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\main\resources
+2016-09-17 09:50:50,455 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 09:50:50,457 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\test\resources
+2016-09-17 10:14:17,306 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:14:17,401 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\main\resources
+2016-09-17 10:14:17,406 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:14:17,408 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\test\resources
+2016-09-17 10:24:05,783 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:24:05,786 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\main\resources
+2016-09-17 10:24:05,790 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:24:05,792 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\test\resources
+2016-09-17 10:34:41,073 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:34:41,080 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\main\resources
+2016-09-17 10:34:41,092 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:34:41,095 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\test\resources
+2016-09-17 10:35:18,199 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:35:18,202 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\main\resources
+2016-09-17 10:35:18,208 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:35:18,212 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\test\resources
+2016-09-17 10:35:42,667 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:35:42,672 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\main\resources
+2016-09-17 10:35:42,681 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:35:42,684 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\test\resources
+2016-09-17 10:36:19,114 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:36:19,117 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\main\resources
+2016-09-17 10:36:19,124 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:36:19,127 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\test\resources
+2016-09-17 10:37:42,519 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:37:42,522 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\main\resources
+2016-09-17 10:37:42,524 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:37:42,525 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\test\resources
+2016-09-17 10:40:37,206 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:40:37,211 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\main\resources
+2016-09-17 10:40:37,219 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:40:37,221 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\test\resources
+2016-09-17 10:51:28,266 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:51:28,270 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\main\resources
+2016-09-17 10:51:28,274 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-17 10:51:28,276 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\TwitterCode\src\test\resources
+2016-09-17 11:01:23,240 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 11:01:23,241 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-hateoas-master\complete\src\main\resources
+2016-09-17 11:01:23,241 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-hateoas-master\complete\src\main\resources
+2016-09-17 11:01:23,250 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 11:01:23,251 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-rest-hateoas-master\complete\src\test\resources
+2016-09-17 11:26:16,987 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 11:26:16,989 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-17 11:26:17,018 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-17 11:26:17,025 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 11:26:17,025 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-facebook-master\gs-accessing-facebook-master\complete\src\test\resources
+2016-09-17 11:26:21,243 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 11:26:21,263 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-17 11:26:21,268 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-17 11:26:21,275 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 11:26:21,275 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-facebook-master\gs-accessing-facebook-master\complete\src\test\resources
+2016-09-17 11:26:34,565 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 11:26:34,566 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-17 11:26:34,571 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-17 11:26:34,578 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 11:26:34,579 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-facebook-master\gs-accessing-facebook-master\complete\src\test\resources
+2016-09-17 11:26:46,526 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 11:26:46,550 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-09-17 11:26:46,554 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-09-17 11:26:46,572 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-17 11:26:46,574 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\Spring-Security\gs-accessing-facebook-master\gs-accessing-facebook-master\complete\src\test\resources
